@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1038,
+    "name": "THE ADARSH CO OP URBAN BANK LTD",
+    "code": "ACUX",
+    "services": ["debit card"]
+  },
+  {
+    "id": 984,
+    "name": "AIRTEL PAYMENTS BANK LTD",
+    "code": "AIRP",
+    "services": ["netbanking", "debit card"]
+  },
+  {
+    "id": 1120,
+    "name": "THE AKOLA URBAN CO OP BANK LTD",
+    "code": "AKOX",
+    "services": ["netbanking", "aadhaar"]
+  },
+  {
+    "id": 709,
+    "name": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "code": "APGB",
+    "services": ["netbanking"]
+  },
+  {
+    "id": 347,
+    "name": "AU SMALL FINANCE BANK",
+    "code": "AUBL",
+    "services": ["netbanking", "debit card", "aadhaar"]
+  }
+]
