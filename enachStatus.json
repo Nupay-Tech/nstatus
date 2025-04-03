@@ -1,1 +1,13 @@
-
+[
+  { "id": 0, "oldValue": "Pending", "newValue": "Pending with customer" },
+  { "id": 2, "oldValue": "Rejected", "newValue": "Rejected" },
+  { "id": 5, "oldValue": "Processing", "newValue": "File under process" },
+  { "id": 6, "oldValue": "Data Error", "newValue": "Data Error" },
+  { "id": 4, "oldValue": "Approved", "newValue": "Approved" },
+  { "id": 7, "oldValue": "InProcess", "newValue": "Signed by Customer" },
+  { "id": 8, "oldValue": "Sent to Bank", "newValue": "Sent to Bank" },
+  { "id": 9, "oldValue": "ACK", "newValue": "Acknowledged by Bank" },
+  { "id": 25, "oldValue": "Mandate Cancelled", "newValue": "Mandate Cancelled" },
+  { "id": 26, "oldValue": "Cancellation Under Process", "newValue": "Cancellation in Process" },
+  { "id": 27, "oldValue": "Link Expired", "newValue": "Link Expired" }
+]
