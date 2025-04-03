@@ -1,0 +1,137 @@
+[
+    {
+        "id": 0,
+        "oldValue": "Pending",
+        "newValue": "Pending with Admin"
+    },
+    {
+        "id": 1,
+        "oldValue": "Sent to Bank",
+        "newValue": "Sent to Bank"
+    },
+    {
+        "id": 2,
+        "oldValue": "Rejected by Bank",
+        "newValue": "Rejected by Bank"
+    },
+    {
+        "id": 3,
+        "oldValue": "Rejected by Admin",
+        "newValue": "Rejected by Admin"
+    },
+    {
+        "id": 4,
+        "oldValue": "Accepted",
+        "newValue": "Approved"
+    },
+    {
+        "id": 5,
+        "oldValue": "Processing",
+        "newValue": "Pending with customer"
+    },
+    {
+        "id": 6,
+        "oldValue": "Incomplete",
+        "newValue": "Data Pending"
+    },
+    {
+        "id": 7,
+        "oldValue": "Data Not Found",
+        "newValue": "Data Not Found"
+    },
+    {
+        "id": 8,
+        "oldValue": "Data Not Found",
+        "newValue": "Data Not Found"
+    },
+    {
+        "id": 9,
+        "oldValue": "ACK",
+        "newValue": "Acknowledged by Bank"
+    },
+    {
+        "id": 11,
+        "oldValue": "Accepted By Admin",
+        "newValue": "Accepted By Admin"
+    },
+    {
+        "id": 12,
+        "oldValue": "Resubmitted",
+        "newValue": "Mandate Resubmitted"
+    },
+    {
+        "id": 13,
+        "oldValue": "Pending Send",
+        "newValue": "Sent to Bank"
+    },
+    {
+        "id": 14,
+        "oldValue": "Awaiting ACK",
+        "newValue": "Sent to Bank"
+    },
+    {
+        "id": 15,
+        "oldValue": "Pending Authorisation",
+        "newValue": "Sent to Bank"
+    },
+    {
+        "id": 16,
+        "oldValue": "NAK",
+        "newValue": "Sent to Bank"
+    },
+    {
+        "id": 17,
+        "oldValue": "Resubmit Incomplete",
+        "newValue": "Resubmit Incomplete"
+    },
+    {
+        "id": 18,
+        "oldValue": "Swap Request",
+        "newValue": "Swap Request"
+    },
+    {
+        "id": 19,
+        "oldValue": "Swap Resubmit Incomplete",
+        "newValue": "Swap Resubmit Incomplete"
+    },
+    {
+        "id": 20,
+        "oldValue": "Sent to Admin",
+        "newValue": "Sent to Admin"
+    },
+    {
+        "id": 21,
+        "oldValue": "Initial Rejection",
+        "newValue": "Initial Rejection"
+    },
+    {
+        "id": 22,
+        "oldValue": "Data Rejection by Admin",
+        "newValue": "Data Rejection by Admin"
+    },
+    {
+        "id": 23,
+        "oldValue": "Pending Processing",
+        "newValue": "Pending Processing"
+    },
+    {
+        "id": 24,
+        "oldValue": "PSR",
+        "newValue": "PSR"
+    },
+    {
+        "id": 25,
+        "oldValue": "Mandate Cancelled",
+        "newValue": "Mandate Cancelled"
+    },
+    {
+        "id": 26,
+        "oldValue": "Cancellation Under Process",
+        "newValue": "Cancellation in Process"
+    },
+    {
+        "id": 27,
+        "oldValue": "Expired",
+        "newValue": "Expired"
+    }
+]
