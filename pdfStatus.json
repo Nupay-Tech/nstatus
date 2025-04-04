@@ -20,6 +20,26 @@
         "oldValue": "PSR",
         "newValue": "PSR"
     },
+     {
+        "id": 21,
+        "oldValue": "Initial Rejection",
+        "newValue": "Initial Rejection"
+    },
+    {
+        "id": 22,
+        "oldValue": "Data Rejection by Admin",
+        "newValue": "Data Rejection by Admin"
+    },
+    {
+        "id": 23,
+        "oldValue": "Pending Processing",
+        "newValue": "Pending Processing"
+    },
+    {
+        "id": 24,
+        "oldValue": "PSR",
+        "newValue": "PSR"
+    },
     {
         "id": 25,
         "oldValue": "Mandate Cancelled",
