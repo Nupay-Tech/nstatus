@@ -1,1 +1,8 @@
-{"bankAccountNumber":"1234567890","accountHolderName":"Brajesh Singh","bankId":"HDFC","accountType":"SAVINGS","collectionAmount":"10000","firstCollectionDate":"2025-05-02+05:30","finalCollectionDate":"2055-05-02+05:30","frequency":"MNTH","consumerReferenceNumber":"NPPLA00221839","mandateReferenceNumber":"2cef4036f09f722307","mandateType":"DEBIT","schemeName":"NP71174426583881798","sequenceType":"RCUR","phone":"+916005939691","mobile":"+916005939691","email":"ather.rashid@nupay.co.in","pan":"AGLPH6767M","categoryCode":"L001","categoryDescription":"Loan instalment payment","uniqueReferenceId":"06b786ed-6547-408d-839d-57a8cf60b144","organizationName":"Entellus Business Solutions Pvt Ltd","sponsorBankName":"HDFC BANK LTD","utilityCode":"NACH00000000024900","messageId":"nupayXXXXXXXXXX"}
+{"bankAccountNumber":"1234567890","accountHolderName":"Brajesh Singh","bankId":"HDFC",
+  "accountType":"SAVINGS","collectionAmount":"10000","firstCollectionDate":"2025-05-02+05:30",
+  "finalCollectionDate":"2055-05-02+05:30","frequency":"MNTH","consumerReferenceNumber":"NPPLA00221839",
+  "mandateReferenceNumber":"2cef4036f09f722307","mandateType":"DEBIT","schemeName":"NP71174426583881798",
+  "sequenceType":"RCUR","phone":"+916005939691","mobile":"+916005939691","email":"ather.rashid@nupay.co.in",
+  "pan":"AGLPH6767M","categoryCode":"L001","categoryDescription":"Loan instalment payment",
+  "uniqueReferenceId":"06b786ed-6547-408d-839d-57a8cf60b144","organizationName":"Entellus Business Solutions Pvt Ltd",
+  "sponsorBankName":"HDFC BANK LTD","utilityCode":"NACH00000000024900","messageId":"nupayXXXXXXXXXX","authMode":"NetBanking"}
